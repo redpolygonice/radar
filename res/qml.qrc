@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>img/map.png</file>
+        <file>qml/PanelButton.qml</file>
+        <file>img/quit.png</file>
+        <file>img/settings.png</file>
+        <file>img/start.png</file>
+        <file>img/stop.png</file>
+    </qresource>
+</RCC>
